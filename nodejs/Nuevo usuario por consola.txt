@@ -1,0 +1,4 @@
+
+use calendario
+
+db.usuarios.insert({user: 'hmora@mail.com',pass: 'a',nombre: 'Hector Mora'})

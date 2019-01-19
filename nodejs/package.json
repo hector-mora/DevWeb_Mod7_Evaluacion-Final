@@ -1,0 +1,19 @@
+{
+  "name": "calendario",
+  "version": "1.0.0",
+  "description": "Evaluacion Final Modulo 7 - Desarrollo Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Mora - NextU",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.4.4",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-auto-increment-reworked": "^1.2.1"
+  }
+}
